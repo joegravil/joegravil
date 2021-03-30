@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @joegravil
+- I mostly code for private projects but if I ever make a public project then I will post it here and on my website
